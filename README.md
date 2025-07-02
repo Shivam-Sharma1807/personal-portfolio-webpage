@@ -31,3 +31,6 @@ Built using HTML, CSS, and JavaScript, it integrates animated elements and a cle
 
 OUTPUTS :
 
+![Image](https://github.com/user-attachments/assets/68428ab2-f6ae-4954-88d2-a4c94d468961)
+![Image](https://github.com/user-attachments/assets/678b3658-d2f4-4fc0-bbe1-518c646e818b)
+![Image](https://github.com/user-attachments/assets/ad69fff5-bfdb-415f-a33d-6ec0a9015dc5)
